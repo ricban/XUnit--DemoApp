@@ -1,6 +1,6 @@
 # XUnit--Tests
 
-A repository for unit testing different application types using xUnit.net.  
+A repository for using xUnit.net to unit test various application types.
 
 ## Application Types
 
