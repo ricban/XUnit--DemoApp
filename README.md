@@ -1,6 +1,6 @@
 # XUnit--DemoApp
 
-Demo app to unit test different application types using xUnit.net unit testing tool.
+A repository for unit testing different application types using xUnit.net.  
 
 ## Application Types
 
