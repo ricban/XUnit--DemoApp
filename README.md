@@ -10,7 +10,7 @@ Demo app to unit test different application types using xUnit.net unit testing t
 
 ## Packages Used
 
-1. [xUnit](https://xunit.net)
+1. [xUnit.net](https://xunit.net)
 2. [Moq](https://github.com/moq/moq4)
 3. [FluentAssertions](https://fluentassertions.com)
 4. [AutoFixture](https://autofixture.github.io)
