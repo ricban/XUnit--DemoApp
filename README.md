@@ -1,4 +1,4 @@
-# XUnit--Tests
+# xUnit--Tests
 
 A repository for using xUnit.net to unit test various application types.
 
