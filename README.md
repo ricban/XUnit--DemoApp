@@ -4,8 +4,8 @@ Demo app to unit test different application types using xUnit.net unit testing t
 
 ## Completed Application Types
 
-1. ASP.NET Core MVC
-2. ASP.NET Core API
+1. ASP.NET Core MVC &nbsp;&nbsp; `.NET 6.0`
+2. ASP.NET Core API &nbsp;&nbsp; `.NET 6.0`
 3. ~~Blazor Server / WebAssembly~~
 
 ## Packages Used
