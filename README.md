@@ -1,4 +1,4 @@
-# XUnit--DemoApp
+# XUnit--Tests
 
 A repository for unit testing different application types using xUnit.net.  
 
